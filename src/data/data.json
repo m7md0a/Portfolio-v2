@@ -1,0 +1,95 @@
+{
+    "about": {
+        "bio": "Hello i'm Mohamed Abdelrahman Web Designer from Elminya - Egypt, I have rich experience in web site design and building, also i am good at vue js, I love to talk with you about our unique. i help you build brand for your business",
+        "bioTwo": "Hello i'm Mohamed Abdelrahman Web Designer from Elminya - Egypt, I have rich experience in web site design and building, also i am good at vue js, I love to talk with you about our unique. i help you build brand for your business",
+        "downloadPDF": "https://pngimg.com/uploads/comet/comet_PNG38.png"
+    },
+    "skills": [
+        {
+            "title": "HTML",
+            "icon": "html"
+        },
+        {
+            "title": "CSS",
+            "icon": "css" 
+        },
+        {
+            "title": "JavaScript",
+            "icon": "js" 
+        },
+        {
+            "title": "TailwindCSS",
+            "icon": "tailwind" 
+        },
+        {
+            "title": "VueJS",
+            "icon": "vue" 
+        },
+        {
+            "title": "NuxtJS",
+            "icon": "nuxt" 
+        },
+        {
+            "title": "ReactJS",
+            "icon": "reactjs" 
+        },
+        {
+            "title": "TypeScript",
+            "icon": "typescript" 
+        },
+        {
+            "title": "Firebase",
+            "icon": "firebase" 
+        }
+    ],
+    "timeLine": [
+    {
+      "id": 1,
+      "time" : "March 2022",
+      "title" : "Marketing UI design in Figma",
+      "description" : "All of the pages and components are first designed in Figma and we keep a parity between the two versions even as we update the project.",
+      "links": [
+        {
+          "text": "See More",
+          "link": "https://www.google.com/" 
+        },
+        {
+          "text": "See More",
+          "link": "https://www.google.com/" 
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "time" : "March 2022",
+      "title" : "Marketing UI design in Figma",
+      "description" : "All of the pages and components are first designed in Figma and we keep a parity between the two versions even as we update the project.",
+      "links": [
+        {
+          "text": "See More",
+          "link": "https://www.google.com/" 
+        },
+        {
+          "text": "See 777",
+          "link": "https://www.google.com/" 
+        }
+      ]
+    }
+  ],
+    "metrics" : [
+        {
+            "title": "Cleint",
+            "count": 7
+        },  {
+                "title": "Projects",
+                "count": 6
+        },  {
+                "title": "project",
+                "count": 7
+        },  {
+                "title": "Work",
+                "count": 0
+        }
+            
+    ]
+}
